@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "Habit_Tracker",
+    "slug": "Habit_Tracker",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/hfav.jpg",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/hfav.jpg",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/hfav.jpg",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true
+    },
+    "web": {
+      "favicon": "./assets/hfav.jpg"
+    }
+  }
+}
